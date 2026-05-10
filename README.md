@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:141321,62:03d8f3,85:ff0055,100:fcee0c&text=J.%20Kanishkha&fontColor=f9fafb&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Multimodal%20AI%20%7C%20MLOps&descAlignY=60&descSize=18&animation=fadeIn" alt="Neon header banner for J. Kanishkha" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,30:141321,62:03d8f3,85:ff0055,100:fcee0c&text=Zakariae&fontColor=f9fafb&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20Multimodal%20AI%20%7C%20MLOps&descAlignY=60&descSize=18&animation=fadeIn" alt="Neon header banner for Zakariae" />
 </p>
 
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="Waving hand" />, I'm J. Kanishkha
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="34" alt="Waving hand" />, I'm Zakariae
 </h1>
 
 <p align="center">
@@ -19,29 +19,29 @@
 </p>
 
 <p align="center">
-  <a href="https://www.jkanishkha.com" target="_blank">
+  <a href="https://www.zakariae.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-03d8f3?style=for-the-badge&logo=googlechrome&logoColor=050816" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/jkanishkha/" target="_blank">
+  <a href="https://www.linkedin.com/in/zakariae/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://huggingface.co/jkanishkha0305" target="_blank">
+  <a href="https://huggingface.co/zakariae" target="_blank">
     <img src="https://img.shields.io/badge/Hugging%20Face-fcee0c?style=for-the-badge&logo=huggingface&logoColor=050816" alt="Hugging Face" />
   </a>
   <a href="https://scholar.google.com/citations?user=Jk10Y9gAAAAJ&hl=en&authuser=1" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-ff8a00?style=for-the-badge&logo=googlescholar&logoColor=050816" alt="Google Scholar" />
   </a>
-  <a href="https://kaggle.com/jkanishkhajai" target="_blank">
+  <a href="https://kaggle.com/zakariae" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=050816" alt="Kaggle" />
   </a>
-  <a href="mailto:jkanishkha0305@gmail.com">
+  <a href="mailto:zakariae@gmail.com">
     <img src="https://img.shields.io/badge/Email-ff0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jkanishkha0305&label=Profile%20views&color=ff0055&style=plastic" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Jkanishkha0305?style=plastic&logo=github&label=Followers&color=03d8f3&logoColor=050816" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Zakariae&label=Profile%20views&color=ff0055&style=plastic" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Zakariae?style=plastic&logo=github&label=Followers&color=03d8f3&logoColor=050816" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Location-New%20York-fcee0c?style=plastic&logo=googlemaps&logoColor=050816" alt="Location New York" />
   <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20and%20MLOps-00ffc8?style=plastic&logoColor=050816" alt="Focus on LLM Systems and MLOps" />
 </p>
@@ -74,15 +74,15 @@
 
 ### Systems And Products
 
-- [`mcp-automation-system`](https://github.com/Jkanishkha0305/mcp-automation-system): Enterprise AI automation for PR review, Asana context, and Slack delivery
-- [`Medibot-GraphRAG`](https://github.com/Jkanishkha0305/Medibot-GraphRAG): Hospital-focused GraphRAG assistant built with LangChain and Neo4j
-- [`Theramind`](https://github.com/Jkanishkha0305/Theramind): Offline mental-health app powered by a fine-tuned small language model
+- [`mcp-automation-system`](https://github.com/Zakariae/mcp-automation-system): Enterprise AI automation for PR review, Asana context, and Slack delivery
+- [`Medibot-GraphRAG`](https://github.com/Zakariae/Medibot-GraphRAG): Hospital-focused GraphRAG assistant built with LangChain and Neo4j
+- [`Theramind`](https://github.com/Zakariae/Theramind): Offline mental-health app powered by a fine-tuned small language model
 
 ### Research And Learning
 
-- [`Align2Act`](https://github.com/Jkanishkha0305/Align2Act): Instruction-tuned models for human-aligned autonomous driving
-- [`fashion-recsys`](https://github.com/Jkanishkha0305/fashion-recsys): End-to-end recommendation system for fashion retrieval and ranking
-- [`LLMs-from-Scratch`](https://github.com/Jkanishkha0305/LLMs-from-Scratch): Hands-on implementations of LLMs, SLMs, and VLMs for experimentation
+- [`Align2Act`](https://github.com/Zakariae/Align2Act): Instruction-tuned models for human-aligned autonomous driving
+- [`fashion-recsys`](https://github.com/Zakariae/fashion-recsys): End-to-end recommendation system for fashion retrieval and ranking
+- [`LLMs-from-Scratch`](https://github.com/Zakariae/LLMs-from-Scratch): Hands-on implementations of LLMs, SLMs, and VLMs for experimentation
 
 ## Technical Stack ⚡
 
@@ -170,21 +170,21 @@
 ## GitHub Signals 📊
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jkanishkha0305&theme=2077" width="49%" alt="Repositories per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jkanishkha0305&theme=2077" width="49%" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zakariae&theme=2077" width="49%" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zakariae&theme=2077" width="49%" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jkanishkha0305&hide_border=true&background=141321&stroke=03d8f3&ring=fcee0c&fire=ff0055&currStreakNum=f9fafb&sideNums=f9fafb&currStreakLabel=03d8f3&sideLabels=ff8a00&dates=9ca3af" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Zakariae&hide_border=true&background=141321&stroke=03d8f3&ring=fcee0c&fire=ff0055&currStreakNum=f9fafb&sideNums=f9fafb&currStreakLabel=03d8f3&sideLabels=ff8a00&dates=9ca3af" alt="GitHub streak stats" />
 </p>
 
 ## Contribution Snake 🐍
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jkanishkha0305/Jkanishkha0305/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jkanishkha0305/Jkanishkha0305/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Jkanishkha0305/Jkanishkha0305/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zakariae/Zakariae/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zakariae/Zakariae/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Zakariae/Zakariae/output/github-snake.svg" />
   </picture>
 </p>
 
