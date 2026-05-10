@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>AI Engineer @ Toyota</strong> · <strong>MSDS @ NYU CDS</strong> · <strong>MLE @ OpenHealthcare US</strong>
+  <strong>AI Engineer @ ENIAD</strong> · <strong>MSDS @ NYU CDS</strong> · <strong>MLE @ OpenHealthcare US</strong>
 </p>
 
 <p align="center">
