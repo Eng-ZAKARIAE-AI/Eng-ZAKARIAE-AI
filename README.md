@@ -166,18 +166,16 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution landscape" />
 </p>
-
 ## GitHub Signals 📊
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zakariae&theme=2077" width="49%" alt="Repositories per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zakariae&theme=2077" width="49%" alt="Most commit language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eng-ZAKARIAE-AI&theme=2077" width="49%" alt="Repositories per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eng-ZAKARIAE-AI&theme=2077" width="49%" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Zakariae&hide_border=true&background=141321&stroke=03d8f3&ring=fcee0c&fire=ff0055&currStreakNum=f9fafb&sideNums=f9fafb&currStreakLabel=03d8f3&sideLabels=ff8a00&dates=9ca3af" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=Eng-ZAKARIAE-AI&hide_border=true&background=141321&stroke=03d8f3&ring=fcee0c&fire=ff0055&currStreakNum=f9fafb&sideNums=f9fafb&currStreakLabel=03d8f3&sideLabels=ff8a00&dates=9ca3af" alt="GitHub streak stats" />
 </p>
-
 ## Contribution Snake 🐍
 
 <p align="center">
