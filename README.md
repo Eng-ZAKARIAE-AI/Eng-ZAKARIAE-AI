@@ -166,6 +166,7 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution landscape" />
 </p>
+
 ## GitHub Signals 📊
 
 <p align="center">
@@ -176,15 +177,17 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Eng-ZAKARIAE-AI&hide_border=true&background=141321&stroke=03d8f3&ring=fcee0c&fire=ff0055&currStreakNum=f9fafb&sideNums=f9fafb&currStreakLabel=03d8f3&sideLabels=ff8a00&dates=9ca3af" alt="GitHub streak stats" />
 </p>
+
 ## Contribution Snake 🐍
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zakariae/Zakariae/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zakariae/Zakariae/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Zakariae/Zakariae/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-snake.svg" />
   </picture>
 </p>
+
 <p align="center">
   If you're building with LLMs, applied ML, or production AI systems, let's connect.
 </p>
