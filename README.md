@@ -185,7 +185,6 @@
     <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Zakariae/Zakariae/output/github-snake.svg" />
   </picture>
 </p>
-
 <p align="center">
   If you're building with LLMs, applied ML, or production AI systems, let's connect.
 </p>
