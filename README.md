@@ -179,8 +179,7 @@
 </p>
 
 ## Contribution Snake 🐍
-<img src="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
+<img src="https://raw.githubusercontent.com/Platane/Platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 <p align="center">
   If you're building with LLMs, applied ML, or production AI systems, let's connect.
