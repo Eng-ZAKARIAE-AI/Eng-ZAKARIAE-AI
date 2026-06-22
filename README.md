@@ -179,11 +179,9 @@
 </p>
 
 ## Contribution Snake 🐍
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+
 <p align="center">
   If you're building with LLMs, applied ML, or production AI systems, let's connect.
 </p>
