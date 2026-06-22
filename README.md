@@ -40,8 +40,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zakariae&label=Profile%20views&color=ff0055&style=plastic" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Zakariae?style=plastic&logo=github&label=Followers&color=03d8f3&logoColor=050816" alt="GitHub followers" />
+  <img src="https://komarev.com/ghpvc/?username=Eng-ZAKARIAE-AI&label=Profile%20views&color=ff0055&style=plastic" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Eng-ZAKARIAE-AI?style=plastic&logo=github&label=Followers&color=03d8f3&logoColor=050816" alt="GitHub followers" />
   <img src="https://img.shields.io/badge/Location-New%20York-fcee0c?style=plastic&logo=googlemaps&logoColor=050816" alt="Location New York" />
   <img src="https://img.shields.io/badge/Focus-LLM%20Systems%20and%20MLOps-00ffc8?style=plastic&logoColor=050816" alt="Focus on LLM Systems and MLOps" />
 </p>
@@ -74,15 +74,15 @@
 
 ### Systems And Products
 
-- [`mcp-automation-system`](https://github.com/Zakariae/mcp-automation-system): Enterprise AI automation for PR review, Asana context, and Slack delivery
-- [`Medibot-GraphRAG`](https://github.com/Zakariae/Medibot-GraphRAG): Hospital-focused GraphRAG assistant built with LangChain and Neo4j
-- [`Theramind`](https://github.com/Zakariae/Theramind): Offline mental-health app powered by a fine-tuned small language model
+- [`mcp-automation-system`](https://github.com/Eng-ZAKARIAE-AI/mcp-automation-system): Enterprise AI automation for PR review, Asana context, and Slack delivery
+- [`Medibot-GraphRAG`](https://github.com/Eng-ZAKARIAE-AI/Medibot-GraphRAG): Hospital-focused GraphRAG assistant built with LangChain and Neo4j
+- [`Theramind`](https://github.com/Eng-ZAKARIAE-AI/Theramind): Offline mental-health app powered by a fine-tuned small language model
 
 ### Research And Learning
 
-- [`Align2Act`](https://github.com/Zakariae/Align2Act): Instruction-tuned models for human-aligned autonomous driving
-- [`fashion-recsys`](https://github.com/Zakariae/fashion-recsys): End-to-end recommendation system for fashion retrieval and ranking
-- [`LLMs-from-Scratch`](https://github.com/Zakariae/LLMs-from-Scratch): Hands-on implementations of LLMs, SLMs, and VLMs for experimentation
+- [`Align2Act`](https://github.com/Eng-ZAKARIAE-AI/Align2Act): Instruction-tuned models for human-aligned autonomous driving
+- [`fashion-recsys`](https://github.com/Eng-ZAKARIAE-AI/fashion-recsys): End-to-end recommendation system for fashion retrieval and ranking
+- [`LLMs-from-Scratch`](https://github.com/Eng-ZAKARIAE-AI/LLMs-from-Scratch): Hands-on implementations of LLMs, SLMs, and VLMs for experimentation
 
 ## Technical Stack ⚡
 
@@ -184,7 +184,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Eng-ZAKARIAE-AI/Eng-ZAKARIAE-AI/output/github-snake-dark.svg" />
   </picture>
 </p>
 
